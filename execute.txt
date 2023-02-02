@@ -1,0 +1,4 @@
+show
+info
+insert_at_index 27
+execute_script execute.txt
